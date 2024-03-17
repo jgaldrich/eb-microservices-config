@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to Cyber Bank cards related local APIs "
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@cyberbank.com"
+    name: "Dario Smith - Developer"
+    email: "dsmith@cyberbank.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
