@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to Cyber Bank accounts related webhook APIs"
+  message: "Hey, welcome to Cyber Bank accounts production webhook APIs"
   contactDetails:
     name: "Janet Darcy - Product Owner"
     email: "janet@cyberbank.com"
